@@ -1,0 +1,4 @@
+Product_ID 34, Name:go pro,Quantity_Sold:30,Money_Received:2640000
+Product_ID 24, Name:almond,Quantity_Sold:19,Money_Received:1354
+Product_ID 3, Name:CHARGER,Quantity_Sold:11,Money_Received:958
+Product_ID 33, Name:bicycle,Quantity_Sold:49,Money_Received:399840
